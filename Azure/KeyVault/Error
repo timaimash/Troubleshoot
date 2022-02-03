@@ -1,0 +1,86 @@
+Details:
+{  "shellProps": {    "sessionId": "5543c48edd4c4e5397c5c0e00dea8dac",    "extName": "Microsoft_Azure_KeyVault",    
+"contentName": "CreateKeyVaultBlade"  },  "error": {    "message": "Error displaying your content",    "summaryItems": 
+[      {        "label": "Error reason",        "value": "ErrorLoadingControl"      }    ],   
+"details": "_errorData: undefined\r\n_sourceErrorLevel: undefined\r\nbaseTypes: [\"MsPortalFx.Errors.Error\"]\r\ncode: 
+undefined\r\ndata: {\"moduleId\":\"require 3239\",\"status\":0,\"failedModules\":
+[{\"name\":\"MsPortalImpl/Controls/Controls.TagsByResource\",\"message\":
+\"Couldn't load \\\"MsPortalImpl/Controls/Controls.TagsByResource\\\" at 
+\\\"https://portal.azure.com/Content/Dynamic/OaGyVsQakKGT.js\\\" as the following dependencies failed to load; 
+[\\\"MsPortalImpl/Controls/TagsByResourceClientStrings\\\" : {Error: Couldn't load \\\"MsPortalImpl/Controls/TagsByResourceClientStrings\\\";
+error code 0},\\\"MsPortalImpl/Controls/TagsByResourceClientStrings\\\" : 
+{Error: Couldn't load \\\"MsPortalImpl/Controls/TagsByResourceClientStrings\\\";
+error code 0},\\\"MsPortalImpl/Controls/TagsByResourceClientStrings\\\" :
+{Error: Couldn't load \\\"MsPortalImpl/Controls/TagsByResourceClientStrings\\\"; 
+error code 0}];\",\"status\":0},{\"name\":\"Fx/Controls/ComboBox\",\"moduleUrl\":
+\"https://portal.azure.com/Content/Dynamic/PmJf_bv2dICQ.js?retryAttempt=1.8920874350288934\",
+\"message\":\"Couldn't load \\\"Fx/Controls/ComboBox\\\"; error code 0\",\"status\":0},
+{\"name\":\"Fx/Controls/EditableGrid\",\"moduleUrl\":\"https://portal.azure.com/Content/Dynamic/8tBsDRBvauVV.js?retryAttempt=1.817956017874497\",
+\"message\":\"Couldn't load \\\"Fx/Controls/EditableGrid\\\"; 
+error code 0\",\"status\":0},{\"name\":\"MsPortalImpl/Controls/TagsByResourceClientStrings\",
+\"moduleUrl\":\"https://portal.azure.com/Content/Dynamic/YXsGam5D4lZS.js?retryAttempt=1.993984323257315\",\"message\":
+\"Couldn't load \\\"MsPortalImpl/Controls/TagsByResourceClientStrings\\\"; 
+error code 0\",\"status\":0}]}\r\nerrorData: undefined\r\nerrorLevel:
+2\r\nextension: fx\r\nhandled: undefined\r\ninnerErrors: [\"data: {\\\"moduleId\\\":
+\\\"require 3239\\\",\\\"status\\\":0,\\\"failedModules\\\":[{\\\"name\\\":
+\\\"MsPortalImpl/Controls/Controls.TagsByResource\\\",\\\"message\\\":
+\\\"Couldn't load \\\\\\\"MsPortalImpl/Controls/Controls.TagsByResource\\\\\\\" 
+at \\\\\\\"https://portal.azure.com/Content/Dynamic/OaGyVsQakKGT.js\\\\\\\" 
+as the following dependencies failed to load; [\\\\\\\"MsPortalImpl/Controls/TagsByResourceClientStrings\\\\\\\" :
+{Error: Couldn't load \\\\\\\"MsPortalImpl/Controls/TagsByResourceClientStrings\\\\\\\"; error code 0},
+\\\\\\\"MsPortalImpl/Controls/TagsByResourceClientStrings\\\\\\\" : 
+{Error: Couldn't load \\\\\\\"MsPortalImpl/Controls/TagsByResourceClientStrings\\\\\\\";
+error code 0},\\\\\\\"MsPortalImpl/Controls/TagsByResourceClientStrings\\\\\\\" : 
+{Error: Couldn't load \\\\\\\"MsPortalImpl/Controls/TagsByResourceClientStrings\\\\\\\"; 
+error code 0}];\\\",\\\"status\\\":0},{\\\"name\\\":\\\"Fx/Controls/ComboBox\\\",\\\"moduleUrl\\\":
+\\\"https://portal.azure.com/Content/Dynamic/PmJf_bv2dICQ.js?retryAttempt=1.8920874350288934\\\",\\\"message\\\":
+\\\"Couldn't load \\\\\\\"Fx/Controls/ComboBox\\\\\\\"; error code 0\\\",\\\"status\\\":0},{\\\"name\\\":
+\\\"Fx/Controls/EditableGrid\\\",\\\"moduleUrl\\\":
+\\\"https://portal.azure.com/Content/Dynamic/8tBsDRBvauVV.js?retryAttempt=1.817956017874497\\\",\\\"message\\\":
+\\\"Couldn't load \\\\\\\"Fx/Controls/EditableGrid\\\\\\\"; error code 0\\\",\\\"status\\\":0},{\\\"name\\\":
+\\\"MsPortalImpl/Controls/TagsByResourceClientStrings\\\",\\\"moduleUrl\\\":
+\\\"https://portal.azure.com/Content/Dynamic/YXsGam5D4lZS.js?retryAttempt=1.993984323257315\\\",\\\"message\\\":
+\\\"Couldn't load \\\\\\\"MsPortalImpl/Controls/TagsByResourceClientStrings\\\\\\\"; error code 0\\\",\\\"status\\\":
+0}]}\\r\\nmessage: Manual require of the following modules failed; [\\\"MsPortalImpl/Controls/Controls.TagsByResource\\\" : 
+{Error: Couldn't load \\\"MsPortalImpl/Controls/Controls.TagsByResource\\\" at 
+\\\"https://portal.azure.com/Content/Dynamic/OaGyVsQakKGT.js\\\" as the following dependencies failed to load; 
+[\\\"MsPortalImpl/Controls/TagsByResourceClientStrings\\\" : {Error: Couldn't load \\\"MsPortalImpl/Controls/TagsByResourceClientStrings\\\"; 
+error code 0},\\\"MsPortalImpl/Controls/TagsByResourceClientStrings\\\" :
+{Error: Couldn't load \\\"MsPortalImpl/Controls/TagsByResourceClientStrings\\\"; 
+error code 0},\\\"MsPortalImpl/Controls/TagsByResourceClientStrings\\\" : 
+{Error: Couldn't load \\\"MsPortalImpl/Controls/TagsByResourceClientStrings\\\";
+error code 0}];},\\\"Fx/Controls/ComboBox\\\" : {Error: Couldn't load \\\"Fx/Controls/ComboBox\\\"; 
+error code 0},\\\"Fx/Controls/EditableGrid\\\" : {Error: Couldn't load \\\"Fx/Controls/EditableGrid\\\";
+error code 0},\\\"MsPortalImpl/Controls/TagsByResourceClientStrings\\\" :
+{Error: Couldn't load \\\"MsPortalImpl/Controls/TagsByResourceClientStrings\\\";
+error code 0}];\\r\\nname: Error\\r\\nstack: Error: Manual require of the following modules failed;
+[\\\"MsPortalImpl/Controls/Controls.TagsByResource\\\" : 
+{Error: Couldn't load \\\"MsPortalImpl/Controls/Controls.TagsByResource\\\" at
+\\\"https://portal.azure.com/Content/Dynamic/OaGyVsQakKGT.js\\\" as the following dependencies failed to load; 
+[\\\"MsPortalImpl/Controls/TagsByResourceClientStrings\\\" : {Error: Couldn't load \\\"MsPortalImpl/Controls/TagsByResourceClientStrings\\\"; 
+error code 0},\\\"MsPortalImpl/Controls/TagsByResourceClientStrings\\\" : {Error: Couldn't load \\\"MsPortalImpl/Controls/TagsByResourceClientStrings\\\";
+error code 0},\\\"MsPortalImpl/Controls/TagsByResourceClientStrings\\\" : {Error: Couldn't load \\\"MsPortalImpl/Controls/TagsByResourceClientStrings\\\";
+error code 0}];},\\\"Fx/Controls/ComboBox\\\" : {Error: Couldn't load \\\"Fx/Controls/ComboBox\\\"; error code 0},\\\"Fx/Controls/EditableGrid\\\" :
+{Error: Couldn't load \\\"Fx/Controls/EditableGrid\\\"; error code 0},\\\"MsPortalImpl/Controls/TagsByResourceClientStrings\\\" :
+{Error: Couldn't load \\\"MsPortalImpl/Controls/TagsByResourceClientStrings\\\"; error code 0}];\\n   
+at ii (https://portal.azure.com/Content/Dynamic/pPE_51nVeo_1.js:64:1874)\\n    
+at https://portal.azure.com/Content/Dynamic/pPE_51nVeo_1.js:64:7439\\r\\n\"]\r\nmessage: 
+Failed to load the control module 'MsPortalImpl/Controls/Controls.TagsByResource'.\r\n Error: Manual require of the following modules failed; 
+[\"MsPortalImpl/Controls/Controls.TagsByResource\" : {Error: Couldn't load \"MsPortalImpl/Controls/Controls.TagsByResource\" at 
+\"https://portal.azure.com/Content/Dynamic/OaGyVsQakKGT.js\" as the following dependencies failed to load; 
+[\"MsPortalImpl/Controls/TagsByResourceClientStrings\" : {Error: Couldn't load \"MsPortalImpl/Controls/TagsByResourceClientStrings\"; 
+error code 0},\"MsPortalImpl/Controls/TagsByResourceClientStrings\" : {Error: Couldn't load \"MsPortalImpl/Controls/TagsByResourceClientStrings\";
+error code 0},\"MsPortalImpl/Controls/TagsByResourceClientStrings\" : {Error: Couldn't load \"MsPortalImpl/Controls/TagsByResourceClientStrings\";
+error code 0}];},\"Fx/Controls/ComboBox\" : {Error: Couldn't load \"Fx/Controls/ComboBox\"; error code 0},\"Fx/Controls/EditableGrid\" : 
+{Error: Couldn't load \"Fx/Controls/EditableGrid\"; error code 0},\"MsPortalImpl/Controls/TagsByResourceClientStrings\" : 
+{Error: Couldn't load \"MsPortalImpl/Controls/TagsByResourceClientStrings\"; error code 0}];\r\nname: Error\r\nsource: undefined\r\nstack: 
+Error: Manual require of the following modules failed; [\"MsPortalImpl/Controls/Controls.TagsByResource\" :
+{Error: Couldn't load \"MsPortalImpl/Controls/Controls.TagsByResource\" at \"https://portal.azure.com/Content/Dynamic/OaGyVsQakKGT.js\" as
+the following dependencies failed to load; [\"MsPortalImpl/Controls/TagsByResourceClientStrings\" :
+{Error: Couldn't load \"MsPortalImpl/Controls/TagsByResourceClientStrings\"; error code 0},\"MsPortalImpl/Controls/TagsByResourceClientStrings\" :
+{Error: Couldn't load \"MsPortalImpl/Controls/TagsByResourceClientStrings\"; error code 0},\"MsPortalImpl/Controls/TagsByResourceClientStrings\" :
+{Error: Couldn't load \"MsPortalImpl/Controls/TagsByResourceClientStrings\"; error code 0}];},\"Fx/Controls/ComboBox\" : 
+{Error: Couldn't load \"Fx/Controls/ComboBox\"; error code 0},\"Fx/Controls/EditableGrid\" : {Error: Couldn't load \"Fx/Controls/EditableGrid\";
+error code 0},\"MsPortalImpl/Controls/TagsByResourceClientStrings\" : {Error: Couldn't load \"MsPortalImpl/Controls/TagsByResourceClientStrings\"; 
+error code 0}];\n    at ii (https://portal.azure.com/Content/Dynamic/pPE_51nVeo_1.js:64:1874)\n    
+at https://portal.azure.com/Content/Dynamic/pPE_51nVeo_1.js:64:7439\r\ntimestamp: 11244881.7\r\ntype: MsPortalFx.Errors.Error\r\n",    "code": null  }}
